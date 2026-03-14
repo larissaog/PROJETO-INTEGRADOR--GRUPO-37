@@ -1,0 +1,38 @@
+# ========================================================================
+# DEPENDÊNCIAS DO PROJETO - PROJETO INTEGRADOR SENAC
+# Dataset: Brazilian E-Commerce (Olist)
+# ========================================================================
+
+# Manipulação de Dados
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualização
+plotly==5.18.0
+streamlit==1.29.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Análise Estatística
+scipy==1.11.4
+
+# Trabalhar com Excel
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+
+# Configuração e Variáveis de Ambiente
+python-dotenv==1.0.0
+
+# Utilitários
+tqdm==4.66.1              # Barras de progresso
+tabulate==0.9.0           # Tabelas formatadas
+
+# ========================================================================
+# INSTALAÇÃO:
+# pip install -r requirements.txt
+# ========================================================================
