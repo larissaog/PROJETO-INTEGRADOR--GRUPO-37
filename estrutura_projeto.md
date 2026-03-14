@@ -58,59 +58,42 @@ PROJETO-INTEGRADOR--GRUPO-37/
 │   ├── pessoa_1/                              # Cliente e Comportamento
 │   │   ├── __init__.py
 │   │   ├── etl/
-│   │   │   ├── __init__.py
-│   │   │   ├── extract.py
-│   │   │   ├── transform.py
-│   │   │   └── load.py
+│   │   │   └── __init__.py
 │   │   └── analysis/
 │   │       └── __init__.py
 │   │
 │   ├── pessoa_2/                              # Produtos e Categorias
 │   │   ├── __init__.py
 │   │   ├── etl/
-│   │   │   ├── __init__.py
-│   │   │   ├── extract.py
-│   │   │   ├── transform.py
-│   │   │   └── load.py
+│   │   │   └── __init__.py
 │   │   └── analysis/
 │   │       └── __init__.py
 │   │
 │   ├── pessoa_3/                              # Vendedores e Performance
 │   │   ├── __init__.py
 │   │   ├── etl/
-│   │   │   ├── __init__.py
-│   │   │   ├── extract.py
-│   │   │   ├── transform.py
-│   │   │   └── load.py
+│   │   │   └── __init__.py
 │   │   └── analysis/
 │   │       └── __init__.py
 │   │
 │   ├── pessoa_4/                              # Logística e Entregas
 │   │   ├── __init__.py
 │   │   ├── etl/
-│   │   │   ├── __init__.py
-│   │   │   ├── extract.py
-│   │   │   ├── transform.py
-│   │   │   └── load.py
+│   │   │   └── __init__.py
 │   │   └── analysis/
 │   │       └── __init__.py
 │   │
 │   ├── pessoa_5/                              # Satisfação e Avaliações
 │   │   ├── __init__.py
 │   │   ├── etl/
-│   │   │   ├── __init__.py
-│   │   │   ├── extract.py
-│   │   │   ├── transform.py
-│   │   │   └── load.py
+│   │   │   └── __init__.py
 │   │   └── analysis/
 │   │       └── __init__.py
 │   │
 │   └── pessoa_6/                              # Financeiro e Pagamentos
 │       ├── __init__.py
 │       ├── etl/
-│       │   ├── __init__.py
-│       │   ├── transform_financial_step1.py   # ← Script atual
-│       │   └── (outros scripts virão aqui)
+│       │   └── __init__.py
 │       └── analysis/
 │           └── __init__.py
 │
@@ -157,12 +140,12 @@ PROJETO-INTEGRADOR--GRUPO-37/
 │   ├── Home.py                                # Página inicial
 │   ├── exemplos_graficos_financeiros.py       # ← Exemplos que criamos
 │   └── pages/
-│       ├── 1_👥_Clientes.py
-│       ├── 2_📦_Produtos.py
-│       ├── 3_🏪_Vendedores.py
-│       ├── 4_🚚_Logística.py
-│       ├── 5_⭐_Satisfação.py
-│       ├── 6_💰_Financeiro.py                 # ← Seu dashboard
+│       ├── 1_👥_Clientes.py                   # ← Felipe
+│       ├── 2_📦_Produtos.py                   # ← Amanda
+│       ├── 3_🏪_Vendedores.py                 # ← Tomaz
+│       ├── 4_🚚_Logística.py                  # ← Natalia
+│       ├── 5_⭐_Satisfação.py                 # ← Larissa
+│       ├── 6_💰_Financeiro.py                 # ← Lucas
 │       └── 7_📊_Visão_Integrada.py
 │
 └── docs/                                      # 📚 DOCUMENTAÇÃO
@@ -172,7 +155,7 @@ PROJETO-INTEGRADOR--GRUPO-37/
     ├── pessoa_3_README.md
     ├── pessoa_4_README.md
     ├── pessoa_5_README.md
-    └── pessoa_6_README.md                     # ← Sua documentação
+    └── pessoa_6_README.md                     
 ```
 
 ---
