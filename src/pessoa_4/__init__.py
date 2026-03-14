@@ -1,4 +1,4 @@
 """
-Módulo: src/pessoa_4
+Módulo: src/pessoa_6
 Projeto Integrador - SENAC
 """
