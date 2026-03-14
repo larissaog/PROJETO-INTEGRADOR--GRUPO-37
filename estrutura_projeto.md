@@ -6,7 +6,6 @@ PROJETO-INTEGRADOR--GRUPO-37/
 ├── .gitignore                                 # Arquivos a ignorar no Git
 ├── README.md                                  # Documentação principal
 ├── requirements.txt                           # Dependências Python
-├── create_project_structure.py               # Script para criar estrutura
 │
 ├── data/                                      # 📊 DADOS
 │   ├── raw/                                   # Dados originais (CSVs do Kaggle)
