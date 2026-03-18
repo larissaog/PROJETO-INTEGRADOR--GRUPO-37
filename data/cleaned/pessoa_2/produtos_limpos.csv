@@ -1,0 +1,341 @@
+Categoria,Faturamento,Frete,Avaliacao
+Agro industry and commerce,17352.65,773.67,1.0
+Agro industry and commerce,5909.5,401.79,2.0
+Agro industry and commerce,3852.13,392.17,3.0
+Agro industry and commerce,16716.88,1497.49,4.0
+Agro industry and commerce,28699.31,2778.48,5.0
+Air conditioning,8041.21,1229.87,1.0
+Air conditioning,1431.8,212.3,2.0
+Air conditioning,3421.7,504.75,3.0
+Air conditioning,9449.04,1046.92,4.0
+Air conditioning,31986.31,3639.68,5.0
+Art,2522.5,531.91,1.0
+Art,746.9399999999999,94.75,2.0
+Art,1725.66,397.69,3.0
+Art,3499.26,763.3199999999999,4.0
+Art,15543.38,2220.85,5.0
+Arts and craftmanship,265.78000000000003,50.08,1.0
+Arts and craftmanship,188.39,41.94,3.0
+Arts and craftmanship,235.28,43.05,4.0
+Arts and craftmanship,1124.56,235.06,5.0
+Audio,8111.29,946.93,1.0
+Audio,1000.18,279.16,2.0
+Audio,4729.85,523.39,3.0
+Audio,6928.83,825.27,4.0
+Audio,29638.66,3060.52,5.0
+Auto,103542.36,12449.36,1.0
+Auto,21056.39,3691.32,2.0
+Auto,47135.39,7400.36,3.0
+Auto,106694.8,18451.65,4.0
+Auto,306597.97000000003,49849.98,5.0
+Baby,75550.52,10430.92,1.0
+Baby,17703.53,2568.92,2.0
+Baby,32550.59,5453.41,3.0
+Baby,65381.53,12108.14,4.0
+Baby,217178.0,37243.03,5.0
+Bed bath table,143534.5,29458.0,1.0
+Bed bath table,47531.99,9332.68,2.0
+Bed bath table,96679.97,20251.51,3.0
+Bed bath table,197524.41,38919.49,4.0
+Bed bath table,540921.51,104288.15,5.0
+Books general interest,3521.84,728.78,1.0
+Books general interest,1258.5,129.45,2.0
+Books general interest,1616.52,330.89,3.0
+Books general interest,6702.12,1375.5,4.0
+Books general interest,33481.15,6561.28,5.0
+Books imported,327.96,72.25,1.0
+Books imported,135.0,9.76,2.0
+Books imported,154.0,24.77,3.0
+Books imported,274.98,46.64,4.0
+Books imported,3747.91,616.43,5.0
+Books technical,1774.01,393.78,1.0
+Books technical,326.58,100.69,2.0
+Books technical,450.99,152.83,3.0
+Books technical,2653.82,601.4,4.0
+Books technical,13781.72,2983.98,5.0
+Cds dvds musicals,45.0,16.11,3.0
+Cds dvds musicals,135.0,42.16,4.0
+Cds dvds musicals,550.0,166.72,5.0
+Christmas supplies,1074.01,368.82,1.0
+Christmas supplies,89.46000000000001,33.55,2.0
+Christmas supplies,684.84,219.96,3.0
+Christmas supplies,1970.5,790.52,4.0
+Christmas supplies,4271.29,1571.13,5.0
+Cine photo,1054.38,158.29000000000002,1.0
+Cine photo,268.95,44.19,2.0
+Cine photo,323.65,91.53,3.0
+Cine photo,534.15,102.23,4.0
+Cine photo,4752.33,859.96,5.0
+Computers,22559.99,1284.67,1.0
+Computers,1859.9,70.72999999999999,2.0
+Computers,10682.0,597.62,3.0
+Computers,42824.09,1945.27,4.0
+Computers,136272.15,5627.87,5.0
+Computers accessories,144950.44,21295.77,1.0
+Computers accessories,30396.69,5164.95,2.0
+Computers accessories,67874.91,12489.2,3.0
+Computers accessories,182756.9,29125.95,4.0
+Computers accessories,480914.23,78417.3,5.0
+Consoles games,28486.97,2593.9,1.0
+Consoles games,4609.25,560.33,2.0
+Consoles games,15204.04,2005.43,3.0
+Consoles games,26763.43,3802.31,4.0
+Consoles games,80307.58,10636.91,5.0
+Construction tools construction,13931.26,2113.65,1.0
+Construction tools construction,5379.41,1092.12,2.0
+Construction tools construction,13974.18,2240.89,3.0
+Construction tools construction,23362.35,4232.82,4.0
+Construction tools construction,86318.0,10831.33,5.0
+Construction tools lights,3405.24,608.66,1.0
+Construction tools lights,1414.83,460.52,2.0
+Construction tools lights,4224.21,701.76,3.0
+Construction tools lights,8929.2,1828.13,4.0
+Construction tools lights,22276.75,3784.75,5.0
+Construction tools safety,6964.82,703.01,1.0
+Construction tools safety,668.01,57.91,2.0
+Construction tools safety,2810.99,373.29,3.0
+Construction tools safety,6083.4,724.84,4.0
+Construction tools safety,23988.3,2044.82,5.0
+Cool stuff,76107.23,9299.76,1.0
+Cool stuff,18860.43,2541.07,2.0
+Cool stuff,45178.66,6507.49,3.0
+Cool stuff,110278.88,15816.23,4.0
+Cool stuff,377168.82,49032.55,5.0
+Costruction tools garden,2130.74,707.8199999999999,1.0
+Costruction tools garden,1157.89,266.33,2.0
+Costruction tools garden,2062.39,311.86,3.0
+Costruction tools garden,5831.360000000001,1096.38,4.0
+Costruction tools garden,14533.51,2929.01,5.0
+Costruction tools tools,945.45,166.46,1.0
+Costruction tools tools,29.9,14.08,3.0
+Costruction tools tools,4077.17,399.6,4.0
+Costruction tools tools,10721.73,1377.23,5.0
+Diapers and hygiene,327.8,136.12,1.0
+Diapers and hygiene,292.0,139.62,3.0
+Diapers and hygiene,264.0,123.98,4.0
+Diapers and hygiene,683.79,173.96,5.0
+Drinks,3325.13,795.57,1.0
+Drinks,236.46,74.07,2.0
+Drinks,1223.68,462.79,3.0
+Drinks,4891.56,1296.33,4.0
+Drinks,12661.93,2998.19,5.0
+Dvds blu ray,2724.57,186.61,1.0
+Dvds blu ray,83.99,12.89,2.0
+Dvds blu ray,8.9,7.39,3.0
+Dvds blu ray,456.07,263.3,4.0
+Dvds blu ray,2708.96,800.92,5.0
+Electronics,20560.97,5943.57,1.0
+Electronics,6689.099999999999,1819.2,2.0
+Electronics,11620.68,3492.79,3.0
+Electronics,32260.97,9605.27,4.0
+Electronics,85121.45,25202.76,5.0
+Fashio female clothing,463.59,80.66,1.0
+Fashio female clothing,312.8,49.93,2.0
+Fashio female clothing,332.08000000000004,77.08,3.0
+Fashio female clothing,504.69,141.22,4.0
+Fashio female clothing,1190.48,272.86,5.0
+Fashion bags accessories,18233.13,3602.06,1.0
+Fashion bags accessories,3826.3,914.34,2.0
+Fashion bags accessories,12164.05,2708.27,3.0
+Fashion bags accessories,28497.15,6450.32,4.0
+Fashion bags accessories,89282.43,17634.03,5.0
+Fashion childrens clothes,49.9,16.79,1.0
+Fashion childrens clothes,519.95,78.72,5.0
+Fashion male clothing,2798.69,503.14,1.0
+Fashion male clothing,184.7,46.07,2.0
+Fashion male clothing,704.08,123.23,3.0
+Fashion male clothing,1584.67,344.1,4.0
+Fashion male clothing,5330.68,1096.45,5.0
+Fashion shoes,2037.77,497.64,1.0
+Fashion shoes,809.82,181.33,2.0
+Fashion shoes,1324.8,315.52,3.0
+Fashion shoes,3965.76,809.79,4.0
+Fashion shoes,15025.22,3044.21,5.0
+Fashion sport,230.89,123.57,1.0
+Fashion sport,64.99,18.96,2.0
+Fashion sport,129.8,23.52,3.0
+Fashion sport,354.29,146.03,4.0
+Fashion sport,1339.54,266.05,5.0
+Fashion underwear beach,923.03,270.51,1.0
+Fashion underwear beach,654.49,114.84,2.0
+Fashion underwear beach,830.5,138.52,3.0
+Fashion underwear beach,2052.79,429.65,4.0
+Fashion underwear beach,5030.84,947.57,5.0
+Fixed telephony,26605.97,920.38,1.0
+Fixed telephony,8471.34,335.9,2.0
+Fixed telephony,1927.49,283.81,3.0
+Fixed telephony,5871.47,1010.2,4.0
+Fixed telephony,16106.76,2020.45,5.0
+Flowers,85.5,19.38,1.0
+Flowers,76.3,28.04,3.0
+Flowers,190.7,89.57,4.0
+Flowers,647.74,316.56,5.0
+Food,2577.33,733.46,1.0
+Food,634.51,208.37,2.0
+Food,1236.3,339.17,3.0
+Food,4953.0,1257.37,4.0
+Food,19534.27,4539.03,5.0
+Food drink,616.72,292.69,1.0
+Food drink,73.5,96.81,2.0
+Food drink,2516.19,492.86,3.0
+Food drink,2839.21,791.25,4.0
+Food drink,9108.86,2823.42,5.0
+Furniture bedroom,2259.95,745.82,1.0
+Furniture bedroom,646.0,178.07,2.0
+Furniture bedroom,915.9,211.62,3.0
+Furniture bedroom,4104.87,1065.21,4.0
+Furniture bedroom,12102.06,2431.51,5.0
+Furniture decor,113478.45,28748.88,1.0
+Furniture decor,28171.27,7251.09,2.0
+Furniture decor,62091.59,15019.72,3.0
+Furniture decor,133464.12,30145.52,4.0
+Furniture decor,386139.01,89791.27,5.0
+Furniture living room,11828.95,3414.3,1.0
+Furniture living room,3317.4,832.91,2.0
+Furniture living room,5681.43,1603.03,3.0
+Furniture living room,11270.94,3019.49,4.0
+Furniture living room,35636.18,8850.39,5.0
+Furniture mattress and upholstery,912.1,303.79,1.0
+Furniture mattress and upholstery,44.7,29.51,2.0
+Furniture mattress and upholstery,284.0,116.86,3.0
+Furniture mattress and upholstery,1340.88,358.7,4.0
+Furniture mattress and upholstery,1786.4,821.6,5.0
+Garden tools,60722.81,12966.16,1.0
+Garden tools,13232.16,3228.03,2.0
+Garden tools,34992.87,7781.21,3.0
+Garden tools,99012.85,19585.97,4.0
+Garden tools,273810.21,54723.65,5.0
+Health beauty,130751.62,20596.82,1.0
+Health beauty,28386.04,4972.25,2.0
+Health beauty,89929.78,14341.81,3.0
+Health beauty,222780.19,32644.27,4.0
+Health beauty,776100.02,108624.97,5.0
+Home appliances,7582.06,1493.79,1.0
+Home appliances,953.9,224.38,2.0
+Home appliances,4386.71,1227.48,3.0
+Home appliances,17769.81,3113.6,4.0
+Home appliances,49257.2,8722.95,5.0
+Home appliances 2,11574.97,1137.95,1.0
+Home appliances 2,4829.77,443.54,2.0
+Home appliances 2,5170.46,764.64,3.0
+Home appliances 2,24088.27,2601.06,4.0
+Home appliances 2,67285.37,5579.61,5.0
+Home comfort 2,77.4,73.49,1.0
+Home comfort 2,12.9,15.1,2.0
+Home comfort 2,38.7,44.21,3.0
+Home comfort 2,51.6,56.34,4.0
+Home comfort 2,540.97,175.87,5.0
+Home confort,8483.880000000001,1374.96,1.0
+Home confort,2653.49,428.21,2.0
+Home confort,7995.47,1185.74,3.0
+Home confort,7923.85,1054.46,4.0
+Home confort,30738.45,4418.43,5.0
+Home construction,9956.62,1816.05,1.0
+Home construction,5219.5,913.35,2.0
+Home construction,5705.77,980.33,3.0
+Home construction,21270.48,3398.89,4.0
+Home construction,40605.25,6643.52,5.0
+Housewares,75965.03,18392.12,1.0
+Housewares,22179.14,5332.41,2.0
+Housewares,49910.81,12904.51,3.0
+Housewares,111937.82,26579.6,4.0
+Housewares,367771.48,82082.18,5.0
+Industry commerce and business,4344.81,999.49,1.0
+Industry commerce and business,548.6,133.42000000000002,2.0
+Industry commerce and business,2689.15,729.92,3.0
+Industry commerce and business,6799.17,1535.96,4.0
+Industry commerce and business,25101.88,4431.97,5.0
+Kitchen dining laundry garden furniture,6146.37,1724.95,1.0
+Kitchen dining laundry garden furniture,684.79,179.69,2.0
+Kitchen dining laundry garden furniture,7044.45,1776.28,3.0
+Kitchen dining laundry garden furniture,10001.04,2630.4,4.0
+Kitchen dining laundry garden furniture,22198.82,5626.78,5.0
+La cuisine,304.0,64.93,1.0
+La cuisine,389.0,37.7,4.0
+La cuisine,1224.99,230.81,5.0
+Luggage accessories,10409.05,2540.96,1.0
+Luggage accessories,3789.05,838.06,2.0
+Luggage accessories,7000.58,1788.5,3.0
+Luggage accessories,26373.11,5733.35,4.0
+Luggage accessories,92273.41,19411.85,5.0
+Market place,3436.92,622.16,1.0
+Market place,498.45,110.54,2.0
+Market place,3581.49,546.38,3.0
+Market place,6555.51,1372.15,4.0
+Market place,14240.81,2772.94,5.0
+Music,307.67,64.52,1.0
+Music,894.1,72.26,3.0
+Music,890.33,126.71,4.0
+Music,3942.25,427.02,5.0
+Musical instruments,21906.52,2264.66,1.0
+Musical instruments,5311.9800000000005,575.16,2.0
+Musical instruments,10027.05,1041.33,3.0
+Musical instruments,39799.15,3680.72,4.0
+Musical instruments,111806.86,10930.55,5.0
+Office furniture,56599.56,14467.76,1.0
+Office furniture,12175.27,3748.04,2.0
+Office furniture,38547.27,10157.34,3.0
+Office furniture,59185.58,13949.35,4.0
+Office furniture,104568.35,25546.24,5.0
+Party supplies,775.39,140.99,1.0
+Party supplies,217.8,35.879999999999995,2.0
+Party supplies,308.6,64.5,3.0
+Party supplies,962.5,95.42,4.0
+Party supplies,2220.89,491.18,5.0
+Perfumery,38476.21,6200.12,1.0
+Perfumery,10665.87,1615.51,2.0
+Perfumery,23730.42,3574.41,3.0
+Perfumery,60498.83,8441.86,4.0
+Perfumery,264118.67,34140.02,5.0
+Pet shop,18767.03,4121.74,1.0
+Pet shop,4941.3,982.7,2.0
+Pet shop,15773.51,3312.75,3.0
+Pet shop,37012.09,6774.86,4.0
+Pet shop,136752.99,24130.74,5.0
+Security and services,100.0,15.45,1.0
+Security and services,183.29,25.77,4.0
+Signaling and security,2575.18,665.94,1.0
+Signaling and security,188.0,46.41,2.0
+Signaling and security,5630.24,792.79,3.0
+Signaling and security,2880.79,816.91,4.0
+Signaling and security,10064.74,4157.47,5.0
+Small appliances,21710.22,1860.04,1.0
+Small appliances,6626.719999999999,798.77,2.0
+Small appliances,12667.56,890.84,3.0
+Small appliances,43264.88,3189.27,4.0
+Small appliances,104401.9,9158.14,5.0
+Small appliances home oven and coffee,4084.85,219.95,1.0
+Small appliances home oven and coffee,579.0,35.45,2.0
+Small appliances home oven and coffee,2316.9,205.29,3.0
+Small appliances home oven and coffee,9704.12,448.45,4.0
+Small appliances home oven and coffee,30760.84,1838.72,5.0
+Sports leisure,128980.71,22059.59,1.0
+Sports leisure,31337.82,5294.19,2.0
+Sports leisure,66286.96,12239.54,3.0
+Sports leisure,187523.61,31145.34,4.0
+Sports leisure,567112.28,96641.74,5.0
+Stationery,24519.26,4676.73,1.0
+Stationery,6394.04,1519.42,2.0
+Stationery,13677.01,2869.28,3.0
+Stationery,43446.85,9524.86,4.0
+Stationery,141441.64,27864.31,5.0
+Tablets printing image,343.7,87.47,1.0
+Tablets printing image,439.8,92.19,2.0
+Tablets printing image,509.9,112.7,3.0
+Tablets printing image,1548.27,302.14,4.0
+Tablets printing image,3666.76,594.1,5.0
+Telephony,45091.15,9172.98,1.0
+Telephony,13429.72,2931.88,2.0
+Telephony,30431.25,7280.71,3.0
+Telephony,73715.94,15581.9,4.0
+Telephony,157271.14,35776.02,5.0
+Toys,53156.59,8586.49,1.0
+Toys,11121.87,2046.46,2.0
+Toys,31642.94,5731.08,3.0
+Toys,80681.97,13512.88,4.0
+Toys,302275.43,46969.93,5.0
+Watches gifts,150776.44,12763.07,1.0
+Watches gifts,34718.57,3566.36,2.0
+Watches gifts,90662.09,9253.85,3.0
+Watches gifts,214284.32,19160.55,4.0
+Watches gifts,706054.41,54944.78,5.0
