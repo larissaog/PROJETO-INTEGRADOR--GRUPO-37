@@ -15,7 +15,7 @@ Dashboard desenvolvido para análise de faturamento e logística.
 st.markdown("---")
 
 # 3. Caminho Inteligente (Funciona em qualquer PC)
-caminho_base = Path(__file__).parents[2]
+caminho_base = Path(__file__).parents[1]
 arquivo_csv = caminho_base / 'data' / 'produtos.csv'
 
 try:
